@@ -64,6 +64,15 @@
  transform: scale3d(1.2);
  cursor: pointer;   
 }
+#fromBox>footer>p{
+  border-top:2px solid red; 
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  color: rgb(252, 83, 4);
+  font-size: 20px;
+  margin-right: 50px;
+ }
 
 #usr>table{
     width: 80%;

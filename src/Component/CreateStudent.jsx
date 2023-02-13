@@ -51,6 +51,9 @@ let formData=(e)=>{
         <input type="text" value={Stream} onChange={studentStream}/><br/>
         <button onClick={formData}>Submit</button>
     </form>
+    <footer id={style.footer}>
+      <p>&copy; SOUVIK .</p>
+    </footer>
     </div>    
 
   )
