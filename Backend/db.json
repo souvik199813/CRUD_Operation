@@ -9,8 +9,14 @@
     {
       "name": "Arko Mitra",
       "roll": "002",
-      "Stream": "ECE",
+      "Stream": "EIE",
       "id": 2
+    },
+    {
+      "name": "Amar jeet Sahi",
+      "roll": "003",
+      "Stream": "B.C.A",
+      "id": 3
     }
   ]
 }
