@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Souvik Dutta",
+      "roll": "001",
+      "Stream": "CSE",
+      "id": 1
+    },
+    {
+      "name": "Arko Mitra",
+      "roll": "002",
+      "Stream": "ECE",
+      "id": 2
+    }
+  ]
+}
